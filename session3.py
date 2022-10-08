@@ -1,11 +1,8 @@
-name = "Moh. Jeli almuta'ali"
-Class = "TI22I"
-major = "Informatics Engineering"
-quote = "don't sleep before you get something new"
-age = 19
-ilikespicefood = True
-hobbies = ["football","sports","wathcing"]
+nama = "Fitri Sulistiawati"
+kelas = "TI22E"
+jurusan = "Teknik Informatika"
+quote = "Tak apa jalan dengan lambat,asal jangan pernah berhenti"
+umur = "18"
+hobbi = {"menulis"}
 
-print(f"My name is: {name}\nClass: {Class}\nMajor: {major}\nQuote: {quote}\nAge: {age}\n"
-      f"I like spice food: {ilikespicefood}\nMy Hobbies: {hobbies}")
-
+print(f"nama adalah: {nama}\nKelas:" {Kelas}\nJurusan: {Jurusan}\nQuote: {quote}\nUmur: {umur}\nHobbi:{hobbi} ")
